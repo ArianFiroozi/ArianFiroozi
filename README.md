@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFiroozi&layout=compact&card_width=350&langs_count=8&hide=css,html,jupyter,%20notebook,javascript,tex,Assembly,Makefile,Java,Perl,Jasmin,SCSS&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFiroozi&layout=compact&card_width=350,SCSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ArianFiroozi/ArianFiroozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
