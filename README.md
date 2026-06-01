@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFiroozi)](https://github.com/anuraghazra/github-readme-stats)
+![Testing](https://github-readme-stats-fast.vercel.app/api?username=ArianFiroozi&show_icons=true&theme=radical)
 
 <!--
 **ArianFiroozi/ArianFiroozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
